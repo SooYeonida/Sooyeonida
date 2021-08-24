@@ -30,8 +30,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yonii&color=dark)](https://github.com/eungyeole/velog-readme-stats)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yonii&tag=java&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yonii&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=yonii&tag=알고리즘)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yonii&tag=java&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=yonii&tag=java)
   
 </div>
 
