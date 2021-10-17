@@ -12,7 +12,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **Intern** | 2020. 7 ~ 2019. 8 | Android Developer | **도미토리 소프트**|
 | **Intern** | 2020. 9 ~ 2020. 12 | Android Developer | **스타트링(구 도미토리 소프트)** |
-| **🧑🏻‍🎓Education** | 2017. 3 ~ 2021. 8| Department of Software | **Ajou University** |
+| **🧑🏻‍🎓Education** | 2017. 3 ~ 2021. 8| Department of Software | ** University** |
 </p>
 
 <br>
