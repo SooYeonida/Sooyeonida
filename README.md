@@ -4,7 +4,6 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooYeonida&count_bg=%23ADCEEB&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"> 사람들에게 편리함을 줄 수 있는 개발자로 성장하기 위한 공간 🏃 </h3>
 <br>
 <h2 align="center"> 💻 Career 💻  </h2>
 
